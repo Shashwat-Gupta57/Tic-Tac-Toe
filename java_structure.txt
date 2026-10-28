@@ -1,0 +1,82 @@
+================================================================
+ JAVA PROJECT STRUCTURE EXTRACTOR
+ Project : D:\User\Data\projects\Tic Tac Toe
+ Date    : 2026-03-28 11:59:48
+ Java    : 2 file(s)   |   POM: 0 file(s)
+================================================================
+
+================================================================
+ SECTION 1 - PROJECT FILE TREE
+================================================================
+
+  Tic Tac Toe\
+  ├── doc\
+  │   ├── legal\
+  │   │   ├── ADDITIONAL_LICENSE_INFO
+  │   │   ├── ASSEMBLY_EXCEPTION
+  │   │   └── LICENSE
+  │   ├── element-list
+  │   ├── index.html
+  │   ├── logfile.txt
+  │   ├── main.html
+  │   ├── package-summary.html
+  │   ├── score.html
+  │   ├── script.js
+  │   ├── serialized-form.html
+  │   └── stylesheet.css
+  ├── res\
+  │   └── icon.png
+  ├── main.ctxt
+  ├── main.java
+  ├── package.bluej
+  ├── README.TXT
+  ├── score.ctxt
+  └── score.java
+
+
+================================================================
+ SECTION 2 - CLASS AND MEMBER DETAILS
+================================================================
+
+----------------------------------------------------------------
+  FILE: main.java
+----------------------------------------------------------------
+
+  CLASS: main
+
+  DATA MEMBERS:
+    · static Boolean bx1
+    · static Boolean bo1
+    · static Boolean px
+    · static Boolean x
+    · static int rn
+    · static Dimension sc
+    · static score s
+
+  METHODS:
+    [1] void main(String args[])
+         DOC: (no documentation)
+
+
+----------------------------------------------------------------
+  FILE: score.java
+----------------------------------------------------------------
+
+  CLASS: score
+
+  DATA MEMBERS: (none found)
+
+  METHODS:
+    [1] main m = new main()
+         DOC: (no documentation)
+
+    [2]  score()
+         DOC: (no documentation)
+
+    [3] void paint(Graphics g)
+         DOC: (no documentation)
+
+
+================================================================
+ END OF REPORT
+================================================================
